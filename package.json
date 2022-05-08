@@ -7,7 +7,7 @@
     "bin": "./card.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rahi-khan/npx_card.git"
+        "url": "https://github.com/sujith3179/sujith_business_card.git"
     },
     "scripts": {
         "setup": "ncu -u && npm i",

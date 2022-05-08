@@ -1,8 +1,8 @@
 {
-    "name": "rahikhan",
-    "version": "2.2.2",
-    "author": "Rahi Khan <rahikhan360@gmail.com> (https://rahikhan.gtsb.io)",
-    "description": "A personal card for Rahi Khan",
+    "name": "Sujith",
+    "version": "1.0.0",
+    "author": "Sujith Tumma <stumma2@ncsu.edu> (https://sujith.gtsb.io)",
+    "description": "A personal card for Sujith Tumma",
     "main": "card.js",
     "bin": "./card.js",
     "repository": {

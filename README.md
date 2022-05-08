@@ -6,7 +6,7 @@
 ### <strong>👇 just hit this in your terminal</strong>
 
 ```bash
-npx rahikhan
+npx sujith
 ```
 
 <br />
